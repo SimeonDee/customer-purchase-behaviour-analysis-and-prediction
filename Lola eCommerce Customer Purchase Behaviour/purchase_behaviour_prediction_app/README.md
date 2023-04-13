@@ -44,12 +44,13 @@ $ python -m venv streamlit-env
 ```
 
 - Activate the Virtual Environment
-**On Windows:**
+
+*On Windows:*
 ```bash
 $ streamlit-env\Scripts\activate
 ```
 
-**On MAC or LINUX:**
+*On MAC or LINUX:*
 ```bash
 $ source streamlit-env/bin/activate
 ```
